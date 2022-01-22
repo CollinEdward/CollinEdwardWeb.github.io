@@ -6,7 +6,6 @@
 }
 
 body{
-
     width: 100%;
     max-width: 1400px;
     display: block;
@@ -58,10 +57,29 @@ body{
     z-index: 8;
 }
 
-.home-section{
+.project-section{
     font-family: sans-serif;
-    padding: 100px;
+    padding-top: 250px;
     width: auto;
-    color: rgb(106, 123, 138);
-
+    font-size: large;
+    color: rgb(139, 158, 175);
 }
+
+.home-about-section{
+    font-family: sans-serif;
+    font-size: xx-small;
+    color: rgb(139, 158, 175)
+    
+    
+}
+
+.HelloUser_picture {
+  /*  width: 50%; */
+   padding-top: 500;
+   
+}
+
+.space_transparent {
+    opacity: 0;
+}
+
